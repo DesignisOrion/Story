@@ -1,0 +1,1 @@
+Within here, we are learning how to use Git. This is Chapter 1. 
